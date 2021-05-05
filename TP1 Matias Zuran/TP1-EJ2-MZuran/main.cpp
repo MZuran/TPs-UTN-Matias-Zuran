@@ -37,4 +37,5 @@ int main()
             cout << "Las rectas se interseccionan en todos sus puntos, son iguales";
         }
     }
+    return 0;
 }
